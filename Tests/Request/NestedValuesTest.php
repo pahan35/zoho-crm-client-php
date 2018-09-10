@@ -26,14 +26,14 @@ class NestedValuesTest extends \PHPUnit_Framework_TestCase
                     'Product Details' => array(
                         array(
                             '@type' => 'product',
-                            'Product Id' => 314534523452345,
+                            'Product Id' => '314534523452345',
                             'Unit Price' => '4800',
                             'Quantity' => '1.0',
                             'Total' => '4800',
                         ),
                         array(
                             '@type' => 'product',
-                            'Product Id' => 314534523452348,
+                            'Product Id' => '314534523452348',
                             'Unit Price' => '4800',
                             'Quantity' => '1.0',
                             'Total' => '4800',
